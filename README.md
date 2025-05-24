@@ -1,4 +1,4 @@
-# CHALLENGE
+
 # Hospital Clínico | Excelência em Saúde
 
 Este é um site institucional fictício desenvolvido para apresentar os serviços, equipe e soluções do Hospital Clínico. O projeto foi criado como parte de uma atividade acadêmica, com foco em design acessível, experiência do usuário e uso de tecnologias web modernas.
